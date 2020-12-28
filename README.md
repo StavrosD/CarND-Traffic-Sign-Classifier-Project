@@ -1,4 +1,4 @@
-## [Click HERE for the complete project output](http://sdim.gr/rnd/CarND-Traffic-Sign-Classifier-Project/index.html)
+## [Click HERE for the complete project output](http://sdim.gr/rnd1/CarND-Traffic-Sign-Classifier-Project/index.html)
 
 
 ## Project: Build a Traffic Sign Recognition Program
